@@ -1,0 +1,4 @@
+order_id,customer,weight,delivered
+101,Mohit,12,True
+102,Riya,25,True
+104,Sana,8,False
